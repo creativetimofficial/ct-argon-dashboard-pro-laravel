@@ -1,8 +1,8 @@
 # Changelog
 
-All notable changes to `Argon Pro` theme for Laravel will be documented in this file.
+All notable changes to `Laravel Argon Pro` theme for Laravel will be documented in this file.
 
-## Version 1.0.0
+## Version 1.0.0 - 2019-02-22
 
 ### Added
 - Argon Pro v1.0.0 frontend theme
