@@ -6,7 +6,7 @@ Argon Pro Theme for Laravel Framework 5.5 and Up
 
 ## Prerequisites
 
-If you don't already have an Apache local environment, use one of the following links:
+If you don't already have an Apache local environment with PHP and MySQL, use one of the following links:
 
 - Windows: http://tutorial.razi.net.my/search?q=uwamp
 - Linux: https://howtoubuntu.org/how-to-install-lamp-on-ubuntu
@@ -39,7 +39,7 @@ In addition to the features included in the free preset, the Pro theme also has 
 
 Each role has a different privilege level and can perform a certain number of actions according to this level.  
 
-A **member type** user can log in, update his profile and view a list of added items.  
+A **member type** user can log in, update his profile and view a list of added items.
 A **creator type** user can log in, update his profile and perform actions on categories, tags and items.  
 A **admin type** user can log in, update his profile and perform actions on categories, tags, items, roles and users.  
 
