@@ -32,3 +32,7 @@ New items fields:
 ### Added
 - User roles & access restrictions
 - Color field in tag CRUD
+
+## Version 1.2.1 - 2019-09-20
+
+Update to Laravel 6.x
