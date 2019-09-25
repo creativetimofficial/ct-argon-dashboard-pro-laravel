@@ -1,14 +1,16 @@
 # Argon Pro Theme for Laravel Framework 5.5 and Up
 
-Argon Pro Theme for Laravel Framework 5.5 and Up
+![version](https://img.shields.io/badge/version-1.2.1-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-argon-dashboard-pro-laravel.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-argon-dashboard-pro-laravel/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-argon-dashboard-pro-laravel/ct-argon-dashboard-pro-laravel.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-argon-dashboard-pro-laravel/issues?q=is%3Aissue+is%3Aclosed)
 
-*Current version*: Argon Pro v1.2.0. More info at http://argon-dashboard-pro-laravel.creative-tim.com/
+*Frontend version*: Argon Dashboard v1.0.0. More info at https://www.creative-tim.com/product/argon-dashboard-pro
+
+![Product Image](https://s3.amazonaws.com/creativetim_bucket/products/146/original/opt_adp_laravel_thumbnail.jpg?1550851795)
 
 ## Prerequisites
 
 If you don't already have an Apache local environment with PHP and MySQL, use one of the following links:
 
-- Windows: https://updivision.com/blog/post/beginner-s-guide-to-setting-up-your-local-development-environment-on-windows
+- Windows: https://updivision.com/blog/post/beginner-s-guide-to-setting-up-your-local-development-environment-on-windows
 - Linux: https://howtoubuntu.org/how-to-install-lamp-on-ubuntu
 - Mac: https://wpshout.com/quick-guides/how-to-install-mamp-on-your-mac
 
@@ -39,7 +41,7 @@ In addition to the features included in the free preset, the Pro theme also has 
 
 Each role has a different privilege level and can perform a certain number of actions according to this level.  
 
-A **member type** user can log in, update his profile and view a list of added items.
+A **member type** user can log in, update his profile and view a list of added items.  
 A **creator type** user can log in, update his profile and perform actions on categories, tags and items.  
 A **admin type** user can log in, update his profile and perform actions on categories, tags, items, roles and users.  
 
