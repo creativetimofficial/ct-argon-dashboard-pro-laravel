@@ -36,3 +36,7 @@ New items fields:
 ## Version 1.2.1 - 2019-09-20
 
 Update to Laravel 6.x
+
+## Version 1.2.2 - 2020-03-18
+
+Update to Laravel 7.x
