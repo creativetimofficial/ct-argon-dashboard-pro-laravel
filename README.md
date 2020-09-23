@@ -1,4 +1,4 @@
-# Argon Pro Theme for Laravel Framework 5.5 and Up
+# Argon Pro Theme for Laravel Framework 8.x and Up
 
 ![version](https://img.shields.io/badge/version-1.2.1-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-argon-dashboard-pro-laravel.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-argon-dashboard-pro-laravel/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-argon-dashboard-pro-laravel/ct-argon-dashboard-pro-laravel.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-argon-dashboard-pro-laravel/issues?q=is%3Aissue+is%3Aclosed)
 
