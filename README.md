@@ -1063,7 +1063,7 @@ At present, we officially aim to support the last two versions of the following 
 - Documentation: <https://argon-dashboard-pro-laravel.creative-tim.com/docs/getting-started/overview.html?_ga=2.124985738.1023638542.1605859071-1600268259.1587021768>
 - License Agreement: <https://www.creative-tim.com/license>
 - Support: <https://www.creative-tim.com/contact-us>
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/argon-dashboard-pro-laravel/issues)
+- Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-argon-dashboard-pro-laravel/issues)
 
 ## Change log
 
