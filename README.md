@@ -330,7 +330,7 @@ The policy which authorizes the user on item management pages is implemented in 
 [View More](https://argon-dashboard-pro-laravel.creative-tim.com/)
 
 ## Documentation
-The documentation for the Argon Dashboard Laravel is hosted at our [website](https://argon-dashboard-pro-laravel.creative-tim.com/docs/getting-started/overview.html?_ga=2.124985738.1023638542.1605859071-1600268259.1587021768).
+The documentation for the Argon Dashboard Laravel is hosted at our [website](https://argon-dashboard-pro-laravel.creative-tim.com/docs/getting-started/overview.html).
 
 ## File Structure
 ```
@@ -1083,7 +1083,7 @@ At present, we officially aim to support the last two versions of the following 
 ## Resources
 - Demo: <https://argon-dashboard-pro-laravel.creative-tim.com/?ref=adl-readme>
 - Download Page: <https://www.creative-tim.com/product/argon-dashboard-pro-laravel?ref=adl-readme>
-- Documentation: <https://argon-dashboard-pro-laravel.creative-tim.com/docs/getting-started/overview.html?_ga=2.124985738.1023638542.1605859071-1600268259.1587021768>
+- Documentation: <https://argon-dashboard-pro-laravel.creative-tim.com/docs/getting-started/overview.html>
 - License Agreement: <https://www.creative-tim.com/license>
 - Support: <https://www.creative-tim.com/contact-us>
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-argon-dashboard-pro-laravel/issues)
