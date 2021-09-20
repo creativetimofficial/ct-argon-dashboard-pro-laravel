@@ -4,7 +4,7 @@ Argon Pro Theme for Laravel Framework 8.x and Up
 
 *Current version*: Argon Pro v1.2.0. More info at http://argon-dashboard-pro-laravel.creative-tim.com/
 
-<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-pro-laravel/intro.gif" width=100%/>
+[<img src="/screens/Dashboard.png" width="100%" />](https://argon-dashboard-pro-laravel.creative-tim.com/dashboard)
 
 ## Prerequisites
 
