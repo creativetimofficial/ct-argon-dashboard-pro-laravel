@@ -2,9 +2,9 @@
 
 Argon Pro Theme for Laravel Framework 9.x and Up
 
-*Current version*: Argon Pro v1.2.0. More info at http://argon-dashboard-pro-laravel.creative-tim.com/
+*Current version*: Argon Pro v1.2.0. More info at http://argon-dashboard-pro-laravel-bs4.creative-tim.com/
 
-[<img src="https://s3.amazonaws.com/creativetim_bucket/products/146/original/opt_adp_laravel_thumbnail.jpg" width="100%" />](https://www.creative-tim.com/live/argon-dashboard-pro-laravel) 
+[<img src="https://s3.amazonaws.com/creativetim_bucket/products/146/original/opt_adp_laravel_thumbnail.jpg" width="100%" />](https://www.creative-tim.com/live/argon-dashboard-pro-laravel-bs4) 
 
 ## Prerequisites
 
@@ -322,15 +322,15 @@ The policy which authorizes the user on item management pages is implemented in 
 
 | Register | Login | Dashboard |
 | --- | --- | ---  |
-| [![Register](/screens/Register.png)](https://argon-dashboard-pro-laravel.creative-tim.com/register)  | [![Login](/screens/Login.png)](https://argon-dashboard-pro-laravel.creative-tim.com/login)  | [![Dashboard](/screens/Dashboard.png)](https://argon-dashboard-pro-laravel.creative-tim.com/dashboard)
+| [![Register](/screens/Register.png)](https://argon-dashboard-pro-laravel-bs4.creative-tim.com/register)  | [![Login](/screens/Login.png)](https://argon-dashboard-pro-laravel-bs4.creative-tim.com/login)  | [![Dashboard](/screens/Dashboard.png)](https://argon-dashboard-pro-laravel-bs4.creative-tim.com/dashboard)
 
 | Profile Page | Users Page | Item Management  |
 | --- | --- | ---  |
-| [![Profile Page](/screens/Profile.png)](https://argon-dashboard-pro-laravel.creative-tim.com/profile)  | [![Users Page](/screens/UserManagement.png)](https://argon-dashboard-pro-laravel.creative-tim.com/user) | [![Item Management Page](/screens/ItemManagement.png)](https://argon-dashboard-pro-laravel.creative-tim.com/item)
-[View More](https://argon-dashboard-pro-laravel.creative-tim.com/)
+| [![Profile Page](/screens/Profile.png)](https://argon-dashboard-pro-laravel-bs4.creative-tim.com/profile)  | [![Users Page](/screens/UserManagement.png)](https://argon-dashboard-pro-laravel-bs4.creative-tim.com/user) | [![Item Management Page](/screens/ItemManagement.png)](https://argon-dashboard-pro-laravel-bs4.creative-tim.com/item)
+[View More](https://argon-dashboard-pro-laravel-bs4.creative-tim.com/)
 
 ## Documentation
-The documentation for the Argon Dashboard Laravel is hosted at our [website](https://argon-dashboard-pro-laravel.creative-tim.com/docs/getting-started/overview.html).
+The documentation for the Argon Dashboard Laravel is hosted at our [website](https://argon-dashboard-pro-laravel-bs4.creative-tim.com/docs/getting-started/overview.html).
 
 ## File Structure
 ```
@@ -1081,12 +1081,12 @@ At present, we officially aim to support the last two versions of the following 
 <img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/chrome-logo.png?raw=true" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/firefox-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/edge-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/safari-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/opera-logo.png" width="64" height="64">
 
 ## Resources
-- Demo: <https://argon-dashboard-pro-laravel.creative-tim.com/?ref=adl-readme>
-- Download Page: <https://www.creative-tim.com/product/argon-dashboard-pro-laravel?ref=adl-readme>
-- Documentation: <https://argon-dashboard-pro-laravel.creative-tim.com/docs/getting-started/overview.html>
+- Demo: <https://argon-dashboard-pro-laravel-bs4.creative-tim.com/?ref=adl-readme>
+- Download Page: <https://www.creative-tim.com/product/argon-dashboard-pro-laravel-bs4?ref=adl-readme>
+- Documentation: <https://argon-dashboard-pro-laravel-bs4.creative-tim.com/docs/getting-started/overview.html>
 - License Agreement: <https://www.creative-tim.com/license>
 - Support: <https://www.creative-tim.com/contact-us>
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-argon-dashboard-pro-laravel/issues)
+- Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-argon-dashboard-pro-laravel-bs4/issues)
 
 ## Change log
 
