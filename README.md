@@ -77,7 +77,7 @@ Besides the numerous types of dashboard, you can find pages for editing your pro
 ## Demo
 | Register | Login | 
 | --- | --- | 
-| [<img src="screens/register.png" width="483" />](https://argon-dashboard-pro-laravel.creative-tim.com/register) | [<img src="screens/login.png" width="483" />](https://argon-dashboard-pro-laravel.creative-tim.com/login)  
+| [<img src="screens/Register.png" width="483" />](https://argon-dashboard-pro-laravel.creative-tim.com/register) | [<img src="screens/Login.png" width="483" />](https://argon-dashboard-pro-laravel.creative-tim.com/login)  
 
 | Forgot Password Page | Reset Password Page | 
 | --- | --- | 
@@ -89,7 +89,7 @@ Besides the numerous types of dashboard, you can find pages for editing your pro
 
 | Profile Page | User Management |
 | ---  | ---  |
-| [<img src="screens/profile.png" width="485"/>](https://argon-dashboard-pro-laravel.creative-tim.com/user-profile) | [<img src="screens/user-management.png" width="475"/>](https://argon-dashboard-pro-laravel.creative-tim.com/user-management)
+| [<img src="screens/Profile.png" width="485"/>](https://argon-dashboard-pro-laravel.creative-tim.com/user-profile) | [<img src="screens/user-management.png" width="475"/>](https://argon-dashboard-pro-laravel.creative-tim.com/user-management)
 
 | Role Management | Item Management  |
 | --- | --- | 
