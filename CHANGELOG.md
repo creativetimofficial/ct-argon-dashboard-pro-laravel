@@ -48,3 +48,11 @@ Update to Laravel 8.x
 ## Version 1.2.4 - 2022-03-30
 
 Update to Laravel 9.x
+
+## Version 2.0.0 - 2022-09-27
+  - Update to Argon Dashboard 2
+  - Update Bootstrap to v5.1.3
+  - Add new example pages
+  - Add Light/Dark feature
+  - New Documentation version
+
