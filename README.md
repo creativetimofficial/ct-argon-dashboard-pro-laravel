@@ -72,7 +72,7 @@ Besides the numerous types of dashboard, you can find pages for editing your pro
 
 | HTML  | Vue | Laravel |
 | --- | --- | --- |
-| [![Argon Dashboard HTML](https://s3.amazonaws.com/creativetim_bucket/products/137/thumb/argon-dashboard-pro.jpg)](https://www.creative-tim.com/product/argon-dashboard-pro) | [![Vue Argon Dashboard ](https://s3.amazonaws.com/creativetim_bucket/products/159/thumb/vue-argon-dashboard-pro.jpg)](https://www.creative-tim.com/product/vue-argon-dashboard-pro) | [![Argon Dashboard Laravel](https://s3.amazonaws.com/creativetim_bucket/products/146/original/argon-dashboard-pro-laravel.jpg)](https://www.creative-tim.com/product/argon-dashboard-pro-laravel) |
+| [![Argon Dashboard HTML](https://s3.amazonaws.com/creativetim_bucket/products/137/thumb/argon-dashboard-pro.jpg)](https://www.creative-tim.com/product/argon-dashboard-pro) | [![Vue Argon Dashboard ](https://s3.amazonaws.com/creativetim_bucket/products/159/thumb/vue-argon-dashboard-pro.jpg)](https://www.creative-tim.com/product/vue-argon-dashboard-pro) | [![Argon Dashboard Laravel](https://s3.amazonaws.com/creativetim_bucket/products/146/thumb/argon-dashboard-pro-laravel.jpg)](https://www.creative-tim.com/product/argon-dashboard-pro-laravel) |
 
 ## Demo
 | Register | Login | 
