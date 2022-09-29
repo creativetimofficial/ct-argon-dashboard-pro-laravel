@@ -77,27 +77,27 @@ Besides the numerous types of dashboard, you can find pages for editing your pro
 ## Demo
 | Register | Login | 
 | --- | --- | 
-| [<img src="public/screens/register.png" width="483" />](https://argon-dashboard-pro-laravel.creative-tim.com/register) | [<img src="public/screens/login.png" width="483" />](https://argon-dashboard-pro-laravel.creative-tim.com/login)  
+| [<img src="public/screens/register.png?t=1" width="483" />](https://argon-dashboard-pro-laravel.creative-tim.com/register) | [<img src="public/screens/login.png?t=1" width="483" />](https://argon-dashboard-pro-laravel.creative-tim.com/login)  
 
 | Forgot Password Page | Reset Password Page | 
 | --- | --- | 
-| [<img src="public/screens/reset-password.png" width="483" />](https://argon-dashboard-pro-laravel.creative-tim.com/reset-password) | [<img src="public/screens/change-password.png" width="483" />](https://argon-dashboard-pro-laravel.creative-tim.com/change-password) 
+| [<img src="public/screens/reset-password.png?t=1" width="483" />](https://argon-dashboard-pro-laravel.creative-tim.com/reset-password) | [<img src="public/screens/change-password.png?t=1" width="483" />](https://argon-dashboard-pro-laravel.creative-tim.com/change-password) 
 
 | Dashboard | Virtual Reality  |
 | ---  | ---  |
-| [<img src="public/screens/dashboard.jpg" width="480" />](https://argon-dashboard-pro-laravel.creative-tim.com/dashboard) | [<img src="public/screens/vr.png" width="484"/>](https://argon-dashboard-pro-laravel.creative-tim.com/vr-default)
+| [<img src="public/screens/dashboard.jpg?t=1" width="480" />](https://argon-dashboard-pro-laravel.creative-tim.com/dashboard) | [<img src="public/screens/vr.png?t=1" width="484"/>](https://argon-dashboard-pro-laravel.creative-tim.com/vr-default)
 
 | Profile Page | User Management |
 | ---  | ---  |
-| [<img src="public/screens/profile.png" width="485"/>](https://argon-dashboard-pro-laravel.creative-tim.com/user-profile) | [<img src="public/screens/user-management.png" width="475"/>](https://argon-dashboard-pro-laravel.creative-tim.com/user-management)
+| [<img src="public/screens/profile.png?t=1" width="485"/>](https://argon-dashboard-pro-laravel.creative-tim.com/user-profile) | [<img src="public/screens/user-management.png?t=1" width="475"/>](https://argon-dashboard-pro-laravel.creative-tim.com/user-management)
 
 | Role Management | Item Management  |
 | --- | --- | 
-| [<img src="public/screens/role-management.png" width="483"/>](https://argon-dashboard-pro-laravel.creative-tim.com/role-management)| [<img src="public/screens/item-management.png" width="483"/>](https://argon-dashboard-pro-laravel.creative-tim.com/item-management)
+| [<img src="public/screens/role-management.png?t=1" width="483"/>](https://argon-dashboard-pro-laravel.creative-tim.com/role-management)| [<img src="public/screens/item-management.png?t=1" width="483"/>](https://argon-dashboard-pro-laravel.creative-tim.com/item-management)
 
 | Category Management | Tag Management | 
 | --- | --- |
-| [<img src="public/screens/category-management.png" width="483"/>](https://argon-dashboard-pro-laravel.creative-tim.com/category-management) | [<img src="public/screens/tag-management.png" width="483"/>](https://argon-dashboard-pro-laravel.creative-tim.com/tag-management)
+| [<img src="public/screens/category-management.png?t=1" width="483"/>](https://argon-dashboard-pro-laravel.creative-tim.com/category-management) | [<img src="public/screens/tag-management.png?t=1" width="483"/>](https://argon-dashboard-pro-laravel.creative-tim.com/tag-management)
 [View More](https://www.creative-tim.com/live/argon-dashboard-pro-laravel)
 
 ## Documentation
