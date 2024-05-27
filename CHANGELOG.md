@@ -56,3 +56,6 @@ Update to Laravel 9.x
   - Add Light/Dark feature
   - New Documentation version
 
+## Version 2.1.0 - 2024-05-27
+
+Update to Laravel 11.x
